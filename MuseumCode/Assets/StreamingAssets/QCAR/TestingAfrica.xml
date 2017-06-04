@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Test_6_Coins" size="100.000000 66.489365" />
+    <ImageTarget name="Test_3_Bracers" size="100.000000 70.442711" />
+    <ImageTarget name="Test_5_Head" size="100.000000 66.562500" />
+    <ImageTarget name="Test_4_Dolls" size="100.000000 50.000000" />
+    <ImageTarget name="Test_2_Elephants" size="1000.000000 500.000000" />
+    <ImageTarget name="Test_1_Mask" size="100.000000 121.904762" />
+  </Tracking>
+</QCARConfig>
