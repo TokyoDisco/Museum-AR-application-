@@ -1,4 +1,4 @@
-# Museum-AR-application-
+# Museum-AR-application-ProjectFiles
 Created in Unity using Vuforia SDK prototype of AR apllication for enriching Museum experiences 
 Features : 
 - Scanning Vuforia markers to get details extra information about certain museum exhibition
@@ -9,3 +9,6 @@ Features :
   - aim for gaminification of museum visit experiences
 - Setting Menu with supproting for language switch from English to Polish or vice-versa
 - Details map of museum included 
+
+Project is openable in Unity ver. 5.0+
+All scripts are in /scripts/ subfolder of assets 
